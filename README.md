@@ -3,3 +3,5 @@ Fully functional ecommerce system made using PHP with dashboard to upload goods 
 
 
 ## Functionalities
+* Full check out (creditcard etc)
+* currency change 
