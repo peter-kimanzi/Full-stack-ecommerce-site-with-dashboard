@@ -3,6 +3,9 @@ Fully functional ecommerce system made using PHP with dashboard to upload goods 
 
 ## Technologies used 
 * PHP
+* HTML
+* CSS
+* JavaScript
 
 ## Functionalities
 * Full check out (creditcard etc)
