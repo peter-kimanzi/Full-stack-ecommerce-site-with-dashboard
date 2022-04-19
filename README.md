@@ -23,4 +23,6 @@ https://www.linkedin.com/in/peter-kimanzi-002299206/
 * Email subscription
 
 
-### dont forget to star this repo 
+### dont forget to star repo 
+
+# Enjoy!
