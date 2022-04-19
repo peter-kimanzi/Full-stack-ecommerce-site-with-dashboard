@@ -9,3 +9,4 @@ Fully functional ecommerce system made using PHP with dashboard to upload goods 
 * Fully flaged dashboard
 * Admin able to add items and other uploads through dashboard 
 * Theme change option
+* Email subscription
