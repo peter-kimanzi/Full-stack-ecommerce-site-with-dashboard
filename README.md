@@ -7,6 +7,9 @@ Fully functional ecommerce system made using PHP with dashboard to upload goods 
 * CSS
 * JavaScript
 
+## Every thing is included including sample images just clone or download zip
+
+
 ## Functionalities
 * Full check out (creditcard etc)
 * currency change 
