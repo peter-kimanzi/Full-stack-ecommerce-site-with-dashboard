@@ -8,6 +8,8 @@ Fully functional ecommerce system made using PHP with dashboard to upload goods 
 * CSS
 * JavaScript
 
+##
+
 ## Every thing is included including sample images just clone or download zip
 
 # N/B if you are unable to run this project on your own dm me via linkedin 
