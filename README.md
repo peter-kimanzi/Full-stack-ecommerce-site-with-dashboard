@@ -13,6 +13,8 @@ Fully functional ecommerce system made using PHP with dashboard to upload goods 
 Username - admin
 Password - admin
 
+# Handle dashboard with care 
+
 
 ## Every thing is included including sample images just clone or download zip
 
