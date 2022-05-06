@@ -22,14 +22,7 @@ Password - admin
 
 https://www.linkedin.com/in/peter-kimanzi-002299206/
 
-## Functionalities
-* Full check out (creditcard etc)
-* currency change 
-* Language change to your suitable language
-* Fully flaged dashboard
-* Admin able to add items and other uploads through dashboard 
-* Theme change option
-* Email subscription
+
 
 
 ### don't forget to star repo 
