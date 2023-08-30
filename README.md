@@ -22,7 +22,7 @@ Fully functional ecommerce system made using PHP with dashboard to upload goods 
 Username - admin
 Password - admin
 
-# Handle dashboard with care. Componets deleted via the dashboard cannot be recoverd
+# Handle dashboard with care. Componets deleted via the dashboard cannot be recovered
 
 
 ## Every thing is included including sample images just clone or download zip
